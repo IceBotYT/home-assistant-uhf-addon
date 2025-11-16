@@ -1,7 +1,7 @@
 {
 "name": "UHF Server",
 "version": "0.1.0",
-"slug": "ufh_addon",
+"slug": "uhf_addon",
 "description": "Run UHF Server as a Home Assistant add-on",
 "arch": ["armv7", "armhf", "aarch64", "amd64"],
 "startup": "services",
