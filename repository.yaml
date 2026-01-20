@@ -1,6 +1,6 @@
 name: "UHF Server Add-on"
-maintainer: "YannickSki"
-url: "https://github.com/YannickSki/home-assistant-uhf-addon"
+maintainer: "IceBotYT"
+url: "https://github.com/IceBotYT/home-assistant-uhf-addon"
 slug: "uhf_addon"
 description: "UHF Server for Home Assistant"
 version: "1.0"
