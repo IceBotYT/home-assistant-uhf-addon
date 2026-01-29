@@ -12,4 +12,4 @@ mkdir -p "$RECORDINGS_DIR"
 chown -R root:root "$RECORDINGS_DIR" || true
 
 # Start UHF Server with the desired recordings dir
-exec /usr/local/bin/uhf-server --host "$HOST" --port "$PORT" --recordings-dir "$RECORDINGS_DIR"
+exec uhf-server --host "$HOST" --port "$PORT" --recordings-dir "$RECORDINGS_DIR"
