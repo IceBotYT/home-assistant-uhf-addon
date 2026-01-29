@@ -1,4 +1,4 @@
-FROM swapplications/uhf-server:latest
+FROM solidpixel/uhf-server:latest
 
 # Add-on root
 COPY run.sh /run.sh
